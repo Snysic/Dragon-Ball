@@ -1,0 +1,17 @@
+{
+    "name": "latiendadecomics",
+    "version": "1.0.0",
+    "description": "La tienda de comics",
+    "main": "index.html",
+    "dependencies": {
+        "json-server": "*"
+    },
+    "devDependencies": {
+        "jest": "*"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Maria Vasilenko",
+    "license": "ISC"
+}
