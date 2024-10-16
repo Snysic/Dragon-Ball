@@ -1,51 +1,26 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
     background-image: url('/img/fone.jpg'); 
-    background-size: cover;
+    background-size: cover; 
     background-attachment: fixed;
 }
+
 h1 {
-    font-family: 'Bangers', sans-serif;
-    font-size: 4rem;
-    color: #FFA500;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    text-transform: uppercase;
+    font-family: 'Dragon Ball Z', sans-serif;
+    letter-spacing: 1px;
 }
-.navbar-brand {
-    font-family: 'Bangers', sans-serif;
-    font-size: 2rem;
+
+.card {
+    margin-bottom: 20px;
 }
-.nav-link {
-    font-size: 1.2rem;
+
+.nav a {
+    margin: 0 15px;
+    text-decoration: none;
 }
-main {
-    padding: 20px;
-}
-#characters {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-}
-.character-card {
-    background-color: rgba(255, 255, 255, 0.1);
-    border: 2px solid #FFA500;
-    border-radius: 10px;
-    padding: 15px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-.character-card:hover {
-    transform: scale(1.05);
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-}
-.character-card img {
-    max-width: 100%;
-    border-radius: 10px;
-}
+
 footer {
-    background-color: #222;
-    color: #FFA500;
-    font-family: 'Bangers', sans-serif;
-}
-footer p {
-    margin: 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
