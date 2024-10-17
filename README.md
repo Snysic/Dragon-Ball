@@ -23,14 +23,14 @@ Abre el archivo index.html en tu navegador para visualizar la tienda de cómics 
 ## Estructura del Proyecto
 
 -index.html: Página principal que muestra la tienda de cómics.
--personajes.html: Página que muestra todos los personajes del universo de Dragon Ball.
+-index.html: Página que muestra todos los personajes del universo de Dragon Ball.
 -planetas.html: Página que muestra todos los planetas de Dragon Ball.
--index.js
+-personajes.js, planetas.js
 
 ## Tecnologías usadas:
 
 -HTML5
--CSS3 (con Bootstrap o Tailwind, según la elección)
+-CSS (con Bootstrap)
 -JavaScript: escribir función para obtener todos los personajes de manera recursiva (paginada)
 -Dragon Ball API.
 -Bootstrap  para crear un diseño moderno y adaptativo.
