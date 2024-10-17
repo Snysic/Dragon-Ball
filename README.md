@@ -29,7 +29,7 @@ Abre el archivo index.html en tu navegador para visualizar la tienda de cómics 
 
 ## Tecnologías usadas:
 
--HTML5
+-HTML
 -CSS (con Bootstrap)
 -JavaScript: escribir función para obtener todos los personajes de manera recursiva (paginada)
 -Dragon Ball API.
@@ -40,4 +40,4 @@ Abre el archivo index.html en tu navegador para visualizar la tienda de cómics 
 
 Con estos pasos, tendrás una web que cumple con los requisitos de la tienda de cómics, mostrando todos los personajes y planetas en una única página, organizada y estilizada con HTML, CSS y JavaScript.
 
-¡Disfruta construyendo tu tienda de cómics de Dragon Ball!
+¡Disfruta de la tienda de cómics de Dragon Ball!
